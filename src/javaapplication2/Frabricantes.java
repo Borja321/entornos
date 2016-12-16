@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package javaapplication2;
-
+/* Esto lo he hecho desde GitHub */
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.ResultSet;
